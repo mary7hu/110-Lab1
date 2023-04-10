@@ -1,6 +1,6 @@
 # Hi, I am Qijun Hu!
 
-## I am an second year undergraduate student majoring in **Math-CS** and *Cognitive Science* at UCSD. I focus on **Software Engineer** and *UX Design*. Welcome to my page!
+## I am a second year undergraduate student majoring in **Math-CS** and *Cognitive Science* at UCSD. I focus on **Software Engineer** and *UX Design*. Welcome to my page!
 
 <br/>
 
